@@ -2,7 +2,7 @@
 
 > **Utilitário completo para ativação permanente e limpeza profunda do sistema.**
 
-[![Download Direct](https://img.shields.io/badge/Download-Script_.bat-green?style=for-the-badge&logo=windows)](COLE_O_LINK_AQUI)
+[![Download Direct](https://img.shields.io/badge/Download-Script_.bat-green?style=for-the-badge&logo=windows)](https://github.com/guiveras/Win-Maintenance-Tool/releases/tag/1.1)
 
 ---
 
